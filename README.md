@@ -47,6 +47,10 @@ The goal of this project is to build a machine learning model that predicts whet
 * Feature Importances (averaged from base learners)
 * ROC Curve Plot
 
+
+  ![image](https://github.com/user-attachments/assets/9c072f65-1165-487e-8638-eea6cb1227e8)
+
+
 ---
 
 ## 📊 Model Comparison Report
